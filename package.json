@@ -1,0 +1,8 @@
+{
+  "name": "cbrcl-react-context",
+  "version": "1.0.0",
+  "description": "Alternative to redux using react-context-api ",
+  "main": "index.js",
+  "author": "cbrcl <cristian@khn.cl>",
+  "license": "MIT"
+}
